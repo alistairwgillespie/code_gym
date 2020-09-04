@@ -1,6 +1,6 @@
 conda/
 tmp/
-
+workshops/full_mnist/*
 tags
 *~
 ~*
